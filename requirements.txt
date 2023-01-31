@@ -85,3 +85,4 @@ wasabi==0.10.1
 watchdog==2.2.1
 wincertstore==0.2
 zipp==3.12.0
+click==7.0
