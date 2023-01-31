@@ -24,7 +24,7 @@ pytz==2022.7.1
 pytz-deprecation-shim==0.1.0.post0
 pyvi==0.1.1
 scipy==1.10.0
-click==7.0
+click==7.1.1
 spacy==3.0.9
 spacy-legacy==3.0.12
 spacy-loggers==1.0.4
