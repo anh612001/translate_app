@@ -16,8 +16,6 @@ pandas==1.5.3
 pyvi==0.1.1
 scipy==1.10.0
 streamlit==1.17.0
-SudachiDict-core==20230110
-SudachiPy==0.6.6
 torch==1.13.1
 torchtext==0.6.0
 tqdm==4.64.1
