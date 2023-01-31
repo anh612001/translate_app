@@ -1,4 +1,6 @@
-click
+certifi==2022.12.7
+charset-normalizer==3.0.1
+click==7.1.2
 spacy==3.0.9
 spacy-legacy==3.0.12
 spacy-loggers==1.0.4
