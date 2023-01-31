@@ -1,5 +1,5 @@
 click
-spacy
+spacy==3.4.1
 spacy-legacy==3.0.12
 spacy-loggers==1.0.4
 ja-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/ja_core_news_sm-3.0.0/ja_core_news_sm-3.0.0-py3-none-any.whl
