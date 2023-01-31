@@ -1,3 +1,4 @@
+click==7.1.1
 ja-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/ja_core_news_sm-3.0.0/ja_core_news_sm-3.0.0-py3-none-any.whl
 joblib==1.2.0
 jsonschema==4.17.3
@@ -24,7 +25,7 @@ pytz==2022.7.1
 pytz-deprecation-shim==0.1.0.post0
 pyvi==0.1.1
 scipy==1.10.0
-click==7.1.1
+click==7.0
 spacy==3.0.9
 spacy-legacy==3.0.12
 spacy-loggers==1.0.4
