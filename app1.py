@@ -15,13 +15,12 @@ import spacy
 import torchtext
 from torchtext import data
 from torchtext.data import Field, BucketIterator, TabularDataset
-from sklearn.model_selection import train_test_split
 import math
 import copy
 import os
 from datetime import datetime
 from nltk.translate.bleu_score import sentence_bleu
-# from janome.tokenizer import Tokenizer
+
 
 if torch.cuda.is_available():
     device = 'cuda:0'
