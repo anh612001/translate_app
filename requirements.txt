@@ -1,24 +1,17 @@
 certifi==2022.12.7
 charset-normalizer==3.0.1
-click==7.1.2
+click==7.0
 spacy==3.0.9
 spacy-legacy==3.0.12
 spacy-loggers==1.0.4
 ja-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/ja_core_news_sm-3.0.0/ja_core_news_sm-3.0.0-py3-none-any.whl
-joblib==1.2.0
-jsonschema==4.17.3
-langcodes==3.3.0
-markdown-it-py==2.1.0
-nltk==3.8.1
-numpy==1.24.1
-packaging==23.0
-pandas==1.5.3
+nltk
+pandas
 pyvi==0.1.1
 scipy==1.10.0
 streamlit==1.17.0
 torch==1.13.1
 torchtext==0.6.0
 tqdm==4.64.1
-validators==0.20.0
 vi-core-news-lg @ https://gitlab.com/trungtv/vi_spacy/-/raw/master/vi_core_news_lg/dist/vi_core_news_lg-0.0.1.tar.gz
 zipp==3.12.0
